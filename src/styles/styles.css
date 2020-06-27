@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    max-width: 1000px;
+}
+
+h1{
+    text-align: center;
+}
